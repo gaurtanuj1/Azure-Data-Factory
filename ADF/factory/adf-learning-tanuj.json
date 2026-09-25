@@ -1,0 +1,15 @@
+{
+	"name": "adf-learning-tanuj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e24d818e-b341-445e-88aa-0d700bbb7ef3",
+		"tenantId": "0d510f0d-69b0-4d0b-8bc0-f08ec50bf0d0"
+	}
+}
